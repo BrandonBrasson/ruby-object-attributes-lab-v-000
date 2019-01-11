@@ -14,5 +14,4 @@ end
 def job
  @job
   end
-
 end
