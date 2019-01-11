@@ -7,7 +7,8 @@ class person
   def name
     @name
   end
-def with_jobs
+
+def job
   @job =job
 end
 
